@@ -5,5 +5,5 @@ jobs:
     runs-on: ubunt-latest
     steps:
       - name: Print greeting
-        run: echo "heelo world
+        run: echo "heelo world"
         
