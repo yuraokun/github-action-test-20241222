@@ -1,0 +1,9 @@
+name: First Workflow
+on: workflow_dispatch
+jobs:
+  first-job:
+    runs-on: ubunt-latest
+    steps:
+      - name: Print greeting
+        run: echo "heelo world
+        
